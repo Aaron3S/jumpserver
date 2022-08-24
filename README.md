@@ -13,7 +13,8 @@
 
 --------------------------
 
- ![Alt](https://repobeats.axiom.co/api/embed/b420a3bf88a02ef5758acc2781ba1dcbe54320a0.svg "Repobeats analytics image")
+
+<center>![Alt](https://repobeats.axiom.co/api/embed/b420a3bf88a02ef5758acc2781ba1dcbe54320a0.svg "Repobeats analytics image")</center>
 
 
 
