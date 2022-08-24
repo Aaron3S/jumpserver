@@ -12,10 +12,14 @@
 </p>
 
 --------------------------
+
+ ![Alt](https://repobeats.axiom.co/api/embed/b420a3bf88a02ef5758acc2781ba1dcbe54320a0.svg "Repobeats analytics image")
+
+
+
 - [ENGLISH](https://github.com/jumpserver/jumpserver/blob/master/README_EN.md)
 
 
- ![Alt](https://repobeats.axiom.co/api/embed/b420a3bf88a02ef5758acc2781ba1dcbe54320a0.svg "Repobeats analytics image")
 
 
 JumpServer 是广受欢迎的开源堡垒机，是符合 4A 规范的专业运维安全审计系统。
